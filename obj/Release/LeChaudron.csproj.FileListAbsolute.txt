@@ -1,0 +1,13 @@
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\bin\Release\LeChaudron.exe.config
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\bin\Release\LeChaudron.exe.manifest
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\bin\Release\LeChaudron.application
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\bin\Release\LeChaudron.exe
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\bin\Release\LeChaudron.pdb
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\obj\Release\LeChaudron.ChaudronMaster.resources
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\obj\Release\LeChaudron.Properties.Resources.resources
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\obj\Release\LeChaudron.csproj.GenerateResource.cache
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\obj\Release\LeChaudron.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\obj\Release\LeChaudron.exe.manifest
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\obj\Release\LeChaudron.application
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\obj\Release\LeChaudron.exe
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\obj\Release\LeChaudron.pdb

@@ -1,0 +1,14 @@
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\bin\Debug\LeChaudron.exe.config
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\bin\Debug\LeChaudron.exe
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\bin\Debug\LeChaudron.pdb
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\obj\Debug\LeChaudron.csprojAssemblyReference.cache
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\obj\Debug\LeChaudron.Properties.Resources.resources
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\obj\Debug\LeChaudron.csproj.GenerateResource.cache
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\obj\Debug\LeChaudron.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\obj\Debug\LeChaudron.exe
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\obj\Debug\LeChaudron.pdb
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\bin\Debug\LeChaudron.exe.manifest
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\bin\Debug\LeChaudron.application
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\obj\Debug\LeChaudron.exe.manifest
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\obj\Debug\LeChaudron.application
+C:\Users\benja\source\repos\LeChaudron\LeChaudron\obj\Debug\LeChaudron.ChaudronMaster.resources
